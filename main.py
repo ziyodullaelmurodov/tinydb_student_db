@@ -92,3 +92,25 @@ studentnummber4 = {
         "zip_code": "58694"
     }
 }
+
+studentnumber5 ={
+    "id": 105,
+    "name": "fForest Gump",
+    "age": 15,
+    "gender": "Male",
+    "contact": "745-325-8695",
+    "grade_level": "Grade 7",
+    "subjects": {
+        "math": 79,
+        "science": 83,
+        "english": 87
+    },
+    "attendance": 82.5,
+    "activities": ["Voleyball", "Debate Club"],
+    "address": {
+        "street": "58 Main St",
+        "city": "Ottawa",
+        "state": "Kanada",
+        "zip_code": "58694"
+        }
+}

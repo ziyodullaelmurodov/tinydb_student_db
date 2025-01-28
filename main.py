@@ -31,7 +31,7 @@ studentnumber1 = {
 studentnumber2 = {
     "id": 102,
     "name": "John Smith",
-    "age": 19,
+    "age": 15,
     "gender": "Male",
     "contact": "586-869-1234",
     "grade_level": "Grade 9",
@@ -68,5 +68,27 @@ studentnumber3 = {
         "city": "London",
         "state": "UK",
         "zip_code": "69965"
+    }
+}
+
+studentnummber4 = {
+    "id": 104,
+    "name": "Katiana Smith",
+    "age": 16,
+    "gender": "Female",
+    "contact": "536-195-3654",
+    "grade_level": "Grade 8",
+    "subjects": {
+        "math": 75,
+        "science": 80,
+        "english": 90
+    },
+    "attendance": 82.5,
+    "activities": ["Basketball", "Debate Club"],
+    "address": {
+        "street": "58 Main St",
+        "city": "Ottawa",
+        "state": "Kanada",
+        "zip_code": "58694"
     }
 }

@@ -161,3 +161,25 @@ studentnumber7 = {
     }
 }
 students_table.insert(studentnumber7)
+studentnumber8 = {
+    "id": 108,
+    "name": "Henry Turner",
+    "age": 16,
+    "gender": "Male",
+    "contact": "246-802-3579",
+    "grade_level": "Grade 10",
+    "subjects": {
+        "math": 90,
+        "science": 85,
+        "english": 88
+    },
+    "attendance": 92.4,
+    "activities": ["Math Club", "Robotics"],
+    "address": {
+        "street": "369 Birch Lane",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "zip_code": "85001"
+    }
+}
+students_table.insert(studentnumber8)

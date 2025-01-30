@@ -55,7 +55,7 @@ studentnumber3 = {
     "id": 103,
     "name": "Anna Taylor",
     "age": 17,
-    "gender": "famale",
+    "gender": "female",
     "contact": "586-553-8657",
     "grade_level": "Grade 11",
     "subjects": {
@@ -121,7 +121,7 @@ studentnumber6 = {
     "id": 106,
     "name": "Lara Croft",
     "age": 11,
-     "gender": "Famale",
+     "gender": "Female",
     "contact": "745-325-5863",
     "grade_level": "Grade 5",
     "subjects": {
@@ -183,3 +183,25 @@ studentnumber8 = {
     }
 }
 students_table.insert(studentnumber8)
+studentnumber9 = {
+    "id": 109,
+    "name": "Ella Parker",
+    "age": 15,
+    "gender": "Female",
+    "contact": "357-913-4680",
+    "grade_level": "Grade 9",
+    "subjects": {
+        "math": 88,
+        "science": 90,
+        "english": 85
+    },
+    "attendance": 91.0,
+    "activities": ["Debate Club", "English Club"],
+    "address": {
+        "street": "258 Walnut Street",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip_code": "75201"
+    }
+}
+students_table.insert(studentnumber9)

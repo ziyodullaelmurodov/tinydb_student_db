@@ -139,3 +139,25 @@ studentnumber6 = {
         }
 }
 students_table.insert(studentnumber6)
+studentnumber7 = {
+    "id": 107,
+    "name": "Grace Harris",
+    "age": 14,
+    "gender": "Female",
+    "contact": "135-791-2468",
+    "grade_level": "Grade 8",
+    "subjects": {
+        "math": 85,
+        "science": 88,
+        "english": 82
+    },
+    "attendance": 89.5,
+    "activities": ["Art Club", "Volleyball"],
+    "address": {
+        "street": "482 Cedar Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip_code": "10001"
+    }
+}
+students_table.insert(studentnumber7)

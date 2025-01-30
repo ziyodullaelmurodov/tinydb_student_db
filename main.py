@@ -205,3 +205,25 @@ studentnumber9 = {
     }
 }
 students_table.insert(studentnumber9)
+studentnumber10 = {
+    "id": 110,
+    "name": "Jack Phillips",
+    "age": 17,
+    "gender": "Male",
+    "contact": "468-024-5791",
+    "grade_level": "Grade 11",
+    "subjects": {
+        "math": 93,
+        "science": 89,
+        "english": 90
+    },
+    "attendance": 95.3,
+    "activities": ["Soccer", "Science Club"],
+    "address": {
+        "street": "147 Spruce Avenue",
+        "city": "Austin",
+        "state": "Texas",
+        "zip_code": "73301"
+    }
+}
+students_table.insert(studentnumber10)

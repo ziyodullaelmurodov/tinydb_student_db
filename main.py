@@ -249,3 +249,25 @@ studentnumber11 = {
     }
 }
 students_table.insert(studentnumber11)
+studentnumber12 = {
+    "id": 112,
+    "name": "Lucas Mitchell",
+    "age": 17,
+    "gender": "Male",
+    "contact": "680-246-7913",
+    "grade_level": "Grade 11",
+    "subjects": {
+        "math": 95,
+        "science": 92,
+        "english": 94
+    },
+    "attendance": 97.5,
+    "activities": ["Music Band", "Science Club"],
+    "address": {
+        "street": "852 Pine Street",
+        "city": "Los Angeles",
+        "state": "California",
+        "zip_code": "90001"
+    }
+}
+students_table.insert(studentnumber12)

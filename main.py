@@ -293,3 +293,25 @@ studentnumber13 = {
     }
 }
 students_table.insert(studentnumber13)
+studentnumber14 = {
+    "id": 114,
+    "name": "Oliver Collins",
+    "age": 16,
+    "gender": "Male",
+    "contact": "902-468-9135",
+    "grade_level": "Grade 10",
+    "subjects": {
+        "math": 89,
+        "science": 91,
+        "english": 88
+    },
+    "attendance": 93.8,
+    "activities": ["Math Club", "Robotics"],
+    "address": {
+        "street": "135 Maple Avenue",
+        "city": "Denver",
+        "state": "Colorado",
+        "zip_code": "80202"
+    }
+}
+students_table.insert(studentnumber14)

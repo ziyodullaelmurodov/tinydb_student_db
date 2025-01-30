@@ -315,3 +315,25 @@ studentnumber14 = {
     }
 }
 students_table.insert(studentnumber14)
+studentnumber15 = {
+    "id": 115,
+    "name": "Ava Simmons",
+    "age": 15,
+    "gender": "Female",
+    "contact": "013-579-0246",
+    "grade_level": "Grade 9",
+    "subjects": {
+        "math": 90,
+        "science": 88,
+        "english": 91
+    },
+    "attendance": 94.2,
+    "activities": ["English Club", "Art Club"],
+    "address": {
+        "street": "579 Walnut Street",
+        "city": "Chicago",
+        "state": "Illinois",
+        "zip_code": "60601"
+    }
+}
+students_table.insert(studentnumber15)

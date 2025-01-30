@@ -337,3 +337,25 @@ studentnumber15 = {
     }
 }
 students_table.insert(studentnumber15)
+studentnumber16 = {
+    "id": 116,
+    "name": "Elijah Brooks",
+    "age": 17,
+    "gender": "Male",
+    "contact": "124-680-1357",
+    "grade_level": "Grade 11",
+    "subjects": {
+        "math": 92,
+        "science": 89,
+        "english": 91
+    },
+    "attendance": 95.9,
+    "activities": ["Soccer", "Science Club"],
+    "address": {
+        "street": "680 Spruce Avenue",
+        "city": "Houston",
+        "state": "Texas",
+        "zip_code": "77002"
+    }
+}
+students_table.insert(studentnumber16)

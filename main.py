@@ -227,3 +227,25 @@ studentnumber10 = {
     }
 }
 students_table.insert(studentnumber10)
+studentnumber11 = {
+    "id": 111,
+    "name": "Lily Campbell",
+    "age": 13,
+    "gender": "Female",
+    "contact": "579-135-6802",
+    "grade_level": "Grade 7",
+    "subjects": {
+        "math": 78,
+        "science": 80,
+        "english": 76
+    },
+    "attendance": 85.2,
+    "activities": ["Swimming", "Tennis"],
+    "address": {
+        "street": "369 Oak Road",
+        "city": "San Diego",
+        "state": "California",
+        "zip_code": "92101"
+    }
+}
+students_table.insert(studentnumber11)

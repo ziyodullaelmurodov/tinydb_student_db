@@ -28,6 +28,7 @@ studentnumber1 = {
         "zip_code": "62704"
     }
 }
+students_table.insert(studentnumber1)
 studentnumber2 = {
     "id": 102,
     "name": "John Smith",
@@ -49,6 +50,7 @@ studentnumber2 = {
         "zip_code": "69834"
     }
 }
+students_table.insert(studentnumber2)
 studentnumber3 = {
     "id": 103,
     "name": "Anna Taylor",
@@ -70,7 +72,7 @@ studentnumber3 = {
         "zip_code": "69965"
     }
 }
-
+students_table.insert(studentnumber3)
 studentnummber4 = {
     "id": 104,
     "name": "Katiana Smith",
@@ -92,20 +94,20 @@ studentnummber4 = {
         "zip_code": "58694"
     }
 }
-
+students_table.insert(studentnummber4)
 studentnumber5 ={
     "id": 105,
-    "name": "fForest Gump",
+    "name": "Forest Gump",
     "age": 15,
     "gender": "Male",
-    "contact": "745-325-8695",
+    "contact": "745-685-8695",
     "grade_level": "Grade 7",
     "subjects": {
-        "math": 79,
+        "math": 96,
         "science": 83,
-        "english": 87
+        "english": 77
     },
-    "attendance": 82.5,
+    "attendance": 88.3,
     "activities": ["Voleyball", "Debate Club"],
     "address": {
         "street": "58 Main St",
@@ -114,3 +116,26 @@ studentnumber5 ={
         "zip_code": "58694"
         }
 }
+students_table.insert(studentnumber5)
+studentnumber6 = {
+    "id": 106,
+    "name": "Lara Croft",
+    "age": 11,
+     "gender": "Famale",
+    "contact": "745-325-5863",
+    "grade_level": "Grade 5",
+    "subjects": {
+        "math": 84,
+        "science": 93,
+        "english": 90
+    },
+    "attendance": 77.5,
+    "activities": ["Tennis", "eenglish"],
+    "address": {
+        "street": "65 Rever St",
+        "city": "Ottawa",
+        "state": "Kanada",
+        "zip_code": "58694"
+        }
+}
+students_table.insert(studentnumber6)

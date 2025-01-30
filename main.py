@@ -271,3 +271,25 @@ studentnumber12 = {
     }
 }
 students_table.insert(studentnumber12)
+studentnumber13 = {
+    "id": 113,
+    "name": "Mia Roberts",
+    "age": 14,
+    "gender": "Female",
+    "contact": "791-357-8024",
+    "grade_level": "Grade 8",
+    "subjects": {
+        "math": 82,
+        "science": 84,
+        "english": 79
+    },
+    "attendance": 88.5,
+    "activities": ["Drama Club", "Volleyball"],
+    "address": {
+        "street": "963 Cedar Road",
+        "city": "Orlando",
+        "state": "Florida",
+        "zip_code": "32801"
+    }
+}
+students_table.insert(studentnumber13)

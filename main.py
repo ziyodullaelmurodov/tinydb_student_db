@@ -359,3 +359,25 @@ studentnumber16 = {
     }
 }
 students_table.insert(studentnumber16)
+studentnumber17 = {
+    "id": 107,
+    "name": "Isabella Murphy",
+    "age": 13,
+    "gender": "Female",
+    "contact": "235-791-2468",
+    "grade_level": "Grade 7",
+    "subjects": {
+        "math": 76,
+        "science": 79,
+        "english": 77
+    },
+    "attendance": 84.7,
+    "activities": ["Swimming", "Tennis"],
+    "address": {
+        "street": "791 Pine Road",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "zip_code": "85001"
+    }
+}
+students_table.insert(studentnumber17)
